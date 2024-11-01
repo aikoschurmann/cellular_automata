@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "grid.h": "c",
+        "gui.h": "c",
+        "vars.h": "c",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "string.h": "c"
+    }
+}
